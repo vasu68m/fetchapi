@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1;
+}
+
+.mid{
+    text-align: center;
+}
+
+th{
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#db{
+    color: aliceblue;
+}
+
+#db:hover{
+    cursor: pointer;
+}
+
+.footer{
+    width:100vw ;
+    height:250px;
+    background-color: aqua;
+    background-image: url("https://i.pinimg.com/originals/2b/84/53/2b8453d9c9f6e1e1c35dcb523e516478.jpg");
+}
